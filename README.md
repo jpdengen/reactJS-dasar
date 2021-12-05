@@ -1,2 +1,2 @@
 # reactJS-dasar
-course from deacourse
+course readctJS from deacourse
