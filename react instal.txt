@@ -1,0 +1,2 @@
+npx create-react-app (nama folder)deacourse instal (react js)
+npm start (running react)
